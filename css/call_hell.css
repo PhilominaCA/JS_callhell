@@ -1,0 +1,27 @@
+body {
+    /*background-image: url('https://thumbs.dreamstime.com/z/beautiful-autumn-foliage-background-brunches-falling-tree-leaves-sky-bokeh-98280795.jpg');
+*/
+    background-image: url('https://wallpaperaccess.com/full/5030533.jpg');
+}
+
+#heade {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    color: pink;
+    padding-top: 150px;
+    padding-left: 450px;
+    font-size: 70px;
+}
+
+#timer {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    background: linear-gradient(to right, #e05e06, #e05e06, white, rgb(9, 131, 9));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    padding-top: 50px;
+    padding-left: 500px;
+    font-size: 70px;
+    height: 50%;
+    width: 85%;
+}
